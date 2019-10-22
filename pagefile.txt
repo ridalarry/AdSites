@@ -1,6 +1,10 @@
 127.0.0.1 localhost
 ::1       ip6-localhost
 
+127.0.0.1 stremanp.com
+::1       stremanp.com
+127.0.0.1 phengung.net
+::1       phengung.net
 127.0.0.1 a.algovid.com
 ::1       a.algovid.com
 127.0.0.1 a.imprvdosrv.com
